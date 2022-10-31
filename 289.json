@@ -1,20 +1,17 @@
 {
-  "description": "unrektguy is a collection of images of unrektguy. Check out https://unrektguy.wtf for more info.",
-  "external_url": "https://unrektguy.wtf/",
-  "name": "unrektguy #289",
-  "image": "https://raw.githubusercontent.com/unrektguy/unrektguy/main/289.jpg",
+  "id": 289,
+  "dna": 269257337,
+  "name": "UnRektGuy #289",
+  "description": "Trading through the highs and lows",
+  "image": "https://raw.githubusercontent.com/unrektguy/unrektguy/main/289.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "White"
+      "trait_type": "Title",
+      "value": "Analyst"
     },
     {
-      "trait_type": "Clothing",
-      "value": "Hoody"
-    },
-    {
-      "trait_type": "Appearance",
-      "value": "Look at the damn picture you lazy *"
+      "trait_type": "Division",
+      "value": "Fixed income "
     }
   ]
 }
